@@ -1,4 +1,8 @@
-<h1 align="center">Hi, I'm Mykola Kosmachevskyi</h1>
+<p align="center">
+  <img src="./assets/profile-terminal.svg" alt="Animated terminal banner for Mykola Kosmachevskyi" width="100%" />
+</p>
+
+<h1 align="center">Mykola Kosmachevskyi</h1>
 
 <p align="center">
   <strong>.NET Developer</strong> focused on backend APIs, commercial web applications, database integrations, and clean React interfaces.
