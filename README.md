@@ -97,8 +97,8 @@ My main focus is ASP.NET Core, PostgreSQL, Entity Framework Core, JWT authentica
 ## GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nikruto-1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikruto-1&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="165" src="./assets/github-stats.svg" alt="GitHub stats" />
+  <img height="165" src="./assets/top-languages.svg" alt="Top languages" />
 </p>
 
 ## Languages
